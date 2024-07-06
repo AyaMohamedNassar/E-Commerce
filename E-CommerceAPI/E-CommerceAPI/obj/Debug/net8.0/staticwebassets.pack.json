@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\wwwroot\\Images\\2blszqwb.obd.jpg",
+      "PackagePath": "staticwebassets\\Images\\2blszqwb.obd.jpg"
+    },
+    {
+      "Id": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\wwwroot\\Images\\3r3frn02.klp.jpg",
+      "PackagePath": "staticwebassets\\Images\\3r3frn02.klp.jpg"
+    },
+    {
+      "Id": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\wwwroot\\Images\\T-shirt.jpg",
+      "PackagePath": "staticwebassets\\Images\\T-shirt.jpg"
+    },
+    {
+      "Id": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\wwwroot\\Images\\cdmemskg.i12.jpg",
+      "PackagePath": "staticwebassets\\Images\\cdmemskg.i12.jpg"
+    },
+    {
+      "Id": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\wwwroot\\Images\\t2hd4nrw.tli.jpg",
+      "PackagePath": "staticwebassets\\Images\\t2hd4nrw.tli.jpg"
+    },
+    {
+      "Id": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\wwwroot\\Images\\uh5axk1b.aka.jpg",
+      "PackagePath": "staticwebassets\\Images\\uh5axk1b.aka.jpg"
+    },
+    {
+      "Id": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\wwwroot\\Images\\vavahs1j.m5f.jpg",
+      "PackagePath": "staticwebassets\\Images\\vavahs1j.m5f.jpg"
+    },
+    {
+      "Id": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\wwwroot\\Images\\zmq2et2e.ie1.jpg",
+      "PackagePath": "staticwebassets\\Images\\zmq2et2e.ie1.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.E-CommerceAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.E-CommerceAPI.props",
+      "PackagePath": "build\\E-CommerceAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.E-CommerceAPI.props",
+      "PackagePath": "buildMultiTargeting\\E-CommerceAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.E-CommerceAPI.props",
+      "PackagePath": "buildTransitive\\E-CommerceAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
