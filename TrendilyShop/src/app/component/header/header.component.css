@@ -1,0 +1,51 @@
+.carousel-item {
+    position: relative;
+}
+
+.custom-caption {
+    position: absolute;
+    bottom: 10%; /* Adjust this value for larger screens */
+    left: 10%;  /* Adjust this value for larger screens */
+    text-align: left;
+}
+
+.custom-btn {
+    background-color: white;
+    color: black; /* Adjust text color if needed */
+    margin-top: 10px; /* Add some margin for spacing */
+}
+
+@media (max-width: 1400px){
+     h2 {
+        font-size: 28.75vmin;
+    }
+}
+
+@media (max-width: 991px){
+    h2 {
+        font-size: 75px;
+        font-size: 5rem;
+    }
+}
+
+@media (max-width: 767px){
+   h2 {
+        font-size: 55px;
+        font-size: 3.6666666667rem;
+    }
+}
+
+@media (max-width: 550px){
+     h2 {
+        font-size: 50px;
+        font-size: 3.3333333333rem;
+    }
+
+
+}
+
+@media (min-width: 320px) and (max-width: 550px){
+     h2 {
+        top: 80px;
+    }
+  }

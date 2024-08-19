@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Kaisei+Tokumin:wght@400;500;700;800&family=Poppins:wght@300;400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap");
+
+:root {
+  --lg-font: "Kaisei Tokumin", serif;
+  --sm-font: "poppings", sans-serif;
+  --pink: #e5345b;
+}
+
+body {
+  font-family: var(--sm-font);
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-top: 70px; /* Adjust this value based on your navbar height */
+}
+
+/* Error CSS */
+
+.sb {
+  min-width: 350px; /* Set a default minimum width */
+  max-width: 800px;
+  text-align: center; /* Centered text */
+  padding: 16px; /* Padding */
+  border-radius: 5px;
+  position: fixed; /* Sit on top of the screen */
+  z-index: 1; /* Add a z-index if needed */
+  left: 50%; /* Center the snackbar */
+  transform: translateX(-50%); /* Move it back by half of its own width */
+  top: 40px; /* 30px from the bottom */
+  -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+  animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+.sb-error {
+  background-color: #e74c3c; /* Black background color */
+  color: #fff; /* White text color */
+}
+
+.sb-success {
+  background-color: #1abc9c; /* Black background color */
+  color: #28282b; /* White text color */
+}
+
+@media screen and (max-width: 768px) {
+  .sb {
+    left: 50%; /* Center the snackbar */
+    transform: translateX(-50%); /* Move it back by half of its own width */
+  }
+}
+
+@media screen and (max-width: 480px) {
+}
+/* Animations to fade the snackbar in and out */
+@-webkit-keyframes fadein {
+  from {
+    top: 0;
+    opacity: 0;
+  }
+  to {
+    top: 40px;
+    opacity: 1;
+  }
+}
+
+@keyframes fadein {
+  from {
+    top: 0;
+    opacity: 0;
+  }
+  to {
+    top: 40px;
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeout {
+  from {
+    top: 30px;
+    opacity: 1;
+  }
+  to {
+    top: 0;
+    opacity: 0;
+  }
+}
+
+@keyframes fadeout {
+  from {
+    top: 30px;
+    opacity: 1;
+  }
+  to {
+    top: 0;
+    opacity: 0;
+  }
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

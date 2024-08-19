@@ -1,0 +1,61 @@
+<h2 class="d-block text-center mt-4">{{productId == 0 ? 'Add':'Edit'}} Product</h2>
+<div class="container d-flex justify-content-center">
+  <form [formGroup]="productForm" (submit)="ProductHandler()" class="w-100">
+    <div class="form-group">
+      <label for="productName">Name:</label>
+      <input formControlName="name" type="text" class="form-control" [value]="product?.name" id="productName"
+        placeholder="Enter product name">
+    </div>
+
+    <div class="form-group">
+      <label for="productDescription">Description:</label>
+      <textarea formControlName="description" class="form-control" [value]="product?.description"
+        id="productDescription" placeholder="Enter product description"></textarea>
+    </div>
+
+    <div class="form-group">
+      <label for="productImage">Image:</label>
+      <input formControlName="image" (change)="onFileSelected($event)" type="file" class="form-control"
+        id="productImage">
+    </div>
+
+    <div class="form-group">
+      <label for="productPrice">Price:</label>
+      <input formControlName="price" [value]="product?.price" type="number" class="form-control" id="productPrice"
+        placeholder="Enter product price">
+    </div>
+
+    <div class="form-group">
+      <label for="productStockQuantity">Stock Quantity:</label>
+      <input formControlName="Instock" type="number" [value]="product?.stockQuantity" class="form-control"
+        id="productStockQuantity" placeholder="Enter stock quantity">
+    </div>
+
+    <div class="form-group">
+      <label for="productCategory">Category:</label>
+      <select formControlName="category"[value]="product?.categoryId" class="form-control" id="productCategory">
+        <option value="" selected disabled>Choose Category</option>
+        @for (category of categories; track $index) {
+        <option [value]="category.id">{{ category.name }}</option>
+        }
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label for="productBrand">Brand:</label>
+      <select formControlName="brand" [value]="product?.brandId" class="form-control" id="productBrand">
+        <option value="0" selected disabled>Choose Brand</option>
+        @for (brand of brands; track $index) {
+        <option [value]="brand.id">{{ brand.name }}</option>
+        }
+
+      </select>
+    </div>
+
+    <div class="text-center m-3">
+
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </div>
+
+  </form>
+</div>

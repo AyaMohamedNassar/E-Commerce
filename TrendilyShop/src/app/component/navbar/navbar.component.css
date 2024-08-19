@@ -1,0 +1,31 @@
+.bi-bag-heart {
+  font-size: x-large;
+}
+.bi-clipboard-heart-fill,
+.bi-search-heart-fill,
+.bi-cart-fill {
+  font-size: large;
+}
+.badge {
+  background-color: var(--pink);
+  text-align: center !important;
+  font-size: 0.65em;
+  top: 0px;;
+  right: -12px;
+
+}
+.navbar {
+  box-shadow: 0 3px 9px 3px rgba(0, 0, 0, 0.1);
+}
+.nav-link:hover {
+  color: var(--pink) !important;
+}
+.nav-item {
+  border-bottom: 0.5px solid rgba(0, 0, 0, 0.05);
+}
+
+@media (min-width: 992px) {
+  .nav-item {
+    border-bottom: none;
+  }
+}

@@ -1,0 +1,26 @@
+<div class="card my-4 " style="width: 18rem;">
+  <div class="image">
+
+    <img src="{{product.image}}" class="card-img-top" alt="{{product.name}}">
+  </div>
+
+  <div class="card-body">
+    <button [ngClass]="{'bg-muted':product.stockQuantity === 0,'bg-warning': product.stockQuantity === 1,}"
+      [disabled]="product.stockQuantity === 0" [style.pointer-events]="product.stockQuantity === 0 ? 'none' : 'auto'"
+      class="addToCart" (click)="addToCart(product)">Add To Cart</button>
+
+    <div class="icons">
+
+      <a href="" class="btn btn-light" [routerLink]="['products', product.id]" [routerLinkActive]="'text-dark'">
+        <i class="bi bi-eye text-dark"></i></a>
+      <a href="" class="btn btn-light mx-2">
+        <i class="bi bi-suit-heart text-dark"></i></a>
+    </div>
+  </div>
+</div>
+
+<div class="productInfo">
+  <!-- <span class="mx-2">{{product.price | currency}} </span>
+  <span>InStock: {{product.stockQuantity == 1 ? "Only One Itme Available": product.stockQuantity == 0 ? "Out Of
+    Stock":product.stockQuantity}} </span> -->
+</div>

@@ -1,0 +1,46 @@
+<div class="wrapper" style="background-image: url('../../../assets/images/bg-registration-form-1.jpg');">
+  <div class=" row mx-5 my-4 justify-content-center">
+    @if(errorMessage)
+    {
+
+    <div class="sb sb-error">{{ errorMessage }}</div>
+    }
+  </div>
+  <div class="inner">
+    <div class="image-holder">
+      <img src="../../../assets/images/registration-form-1.jpg" alt="">
+    </div>
+
+    <form [formGroup]="registrationForm" (submit)="register()">
+      <h3>Registration</h3>
+      <!-- <div class="form-group">
+        <input type="text" placeholder="First Name" class="form-control">
+        <input type="text" placeholder="Last Name" class="form-control">
+      </div> -->
+      <div class="form-wrapper">
+        <input formControlName="userName" type="text" placeholder="Username" class="form-control">
+        <i class="zmdi zmdi-account"></i>
+      </div>
+      <div class="form-wrapper">
+        <input formControlName="email" type="text" placeholder="Email Address" class="form-control">
+        <i class="zmdi zmdi-email"></i>
+      </div>
+      <div class="form-wrapper">
+        <input formControlName="phone" type="number" placeholder="Phone Number" class="form-control">
+
+        <i class="zmdi zmdi-caret-down" style="font-size: 17px"></i>
+      </div>
+      <div class="form-wrapper">
+        <input formControlName="password" type="password" placeholder="Password" class="form-control">
+        <i class="zmdi zmdi-lock"></i>
+      </div>
+      <div class="form-wrapper">
+        <input formControlName="confirmPassword" type="password" placeholder="Confirm Password" class="form-control">
+        <i class="zmdi zmdi-lock"></i>
+      </div>
+      <button type="submit">Register
+        <i class="zmdi zmdi-arrow-right"></i>
+      </button>
+    </form>
+  </div>
+</div>

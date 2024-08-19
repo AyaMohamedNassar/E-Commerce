@@ -1,0 +1,73 @@
+<nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top py-2">
+  <div class="container">
+    <a class="navbar-brand d-flex justify-content-between align-items-center order-lg-0" href="#">
+      <i class="bi bi-bag-heart">
+        <span class="text-uppercase fw-lighter ms-2">Trendily Shop</span>
+      </i></a>
+
+
+    <!-- Icons -->
+    <div class="order-lg-2">
+      <button [routerLink]="['products/shoppingCart']" class="btn position-relative mx-1" type="button">
+        <i class="bi bi-bag"></i>
+        <span class="badge text-white rounded-pill position-absolute translate-middle">{{ itemCount }}</span>
+      </button>
+
+      <button class="btn position-relative mx-1" type="button">
+        <i class="bi bi-heart"></i>
+        <span class="badge text-white rounded-pill position-absolute translate-middle">0</span>
+      </button>
+
+      <button class="btn position-relative mx-1" type="button">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <!-- Sections Names -->
+    <div class="collapse navbar-collapse justify-content-end order-lg-1" id="navbarNav">
+      <ul class="navbar-nav mx-auto text-center">
+        <li class="nav-item py-2 px-2">
+          <a class="nav-link text-uppercase text-dark" [routerLink]="['/']" [routerLinkActive]="'text-dark'"
+            aria-current="page">Home</a>
+        </li>
+
+        @if(admin)
+        {
+          <li class="nav-item py-2 px-2">
+            <a class="nav-link text-uppercase text-dark" [routerLink]="['/products']"
+              [routerLinkActive]="'text-dark'">Products List</a>
+          </li>
+
+          <li class="nav-item py-2 px-2">
+            <a class="nav-link text-uppercase text-dark" [routerLink]="['/products',0, 'add']"
+              [routerLinkActive]="'text-dark'"> Add Products</a>
+          </li>
+        }
+
+        <li class="nav-item py-2 px-2">
+          <a class="nav-link text-uppercase text-dark">Contacts</a>
+        </li>
+
+        @if(!logged)
+        {
+        <li class="nav-item py-2 px-2">
+          <a class="nav-link text-uppercase text-dark" [routerLink]="['/login']">Login</a>
+        </li>
+         }
+
+        @if(logged)
+        {
+          <li class="nav-item py-2 px-2">
+            <a class="nav-link text-uppercase text-dark" (click)="signOut()">log Out</a>
+          </li>
+        }
+      </ul>
+    </div>
+  </div>
+</nav>

@@ -1,0 +1,36 @@
+<div class="container">
+  <h2 class="text-center my-4">Product List</h2>
+  <table class="table table-striped text-center">
+    <thead>
+      <tr>
+        <th>id</th>
+        <th> Name</th>
+        <th>Price</th>
+        <th>Quantity</th>
+        <th>Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      @for (product of products; track $index) {
+      <tr>
+        <td>{{product.id}}</td>
+        <td>{{product.name}}</td>
+        <td>{{product.price}}</td>
+        <td>{{product.stockQuantity}}</td>
+        <td>
+          <i [routerLink]="['/products',product.id]" class="bi bi-eye-fill mx-1 text-warning" style="cursor: pointer;"></i>
+
+          <i [routerLink]="['/products',product.id, 'edit']" class="bi bi-pencil-square mx-1 text-info" style="cursor: pointer;"></i>
+
+          <i (click)="deleteProduct(product.id)" class="bi bi-trash3-fill mx-1 text-danger" style="cursor: pointer;"></i>
+        </td>
+      </tr>
+      }
+
+    </tbody>
+  </table>
+
+  <mat-paginator [length]="totalItems" [pageSize]="pageSize" [pageSizeOptions]="[5, 10, 25, 100]"
+    (page)="onPageChange($event)">
+  </mat-paginator>
+</div>
