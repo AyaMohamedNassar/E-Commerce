@@ -3,48 +3,12 @@
   "WorkspaceRootPath": "D:\\ITI\\Angular Project\\E-CommerceAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2508F8D4-455E-4819-8B41-36DA4033C242}|E-CommerceAPI\\E-CommerceAPI.csproj|d:\\iti\\angular project\\e-commerceapi\\e-commerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2508F8D4-455E-4819-8B41-36DA4033C242}|E-CommerceAPI\\E-CommerceAPI.csproj|solutionrelative:e-commerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2508F8D4-455E-4819-8B41-36DA4033C242}|E-CommerceAPI\\E-CommerceAPI.csproj|d:\\iti\\angular project\\e-commerceapi\\e-commerceapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2508F8D4-455E-4819-8B41-36DA4033C242}|E-CommerceAPI\\E-CommerceAPI.csproj|solutionrelative:e-commerceapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2508F8D4-455E-4819-8B41-36DA4033C242}|E-CommerceAPI\\E-CommerceAPI.csproj|d:\\iti\\angular project\\e-commerceapi\\e-commerceapi\\errors\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2508F8D4-455E-4819-8B41-36DA4033C242}|E-CommerceAPI\\E-CommerceAPI.csproj|solutionrelative:e-commerceapi\\errors\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2508F8D4-455E-4819-8B41-36DA4033C242}|E-CommerceAPI\\E-CommerceAPI.csproj|d:\\iti\\angular project\\e-commerceapi\\e-commerceapi\\errors\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2508F8D4-455E-4819-8B41-36DA4033C242}|E-CommerceAPI\\E-CommerceAPI.csproj|solutionrelative:e-commerceapi\\errors\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2508F8D4-455E-4819-8B41-36DA4033C242}|E-CommerceAPI\\E-CommerceAPI.csproj|d:\\iti\\angular project\\e-commerceapi\\e-commerceapi\\middleware\\exceptionmeddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2508F8D4-455E-4819-8B41-36DA4033C242}|E-CommerceAPI\\E-CommerceAPI.csproj|solutionrelative:e-commerceapi\\middleware\\exceptionmeddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2508F8D4-455E-4819-8B41-36DA4033C242}|E-CommerceAPI\\E-CommerceAPI.csproj|d:\\iti\\angular project\\e-commerceapi\\e-commerceapi\\helpers\\producturlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2508F8D4-455E-4819-8B41-36DA4033C242}|E-CommerceAPI\\E-CommerceAPI.csproj|solutionrelative:e-commerceapi\\helpers\\producturlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2508F8D4-455E-4819-8B41-36DA4033C242}|E-CommerceAPI\\E-CommerceAPI.csproj|d:\\iti\\angular project\\e-commerceapi\\e-commerceapi\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2508F8D4-455E-4819-8B41-36DA4033C242}|E-CommerceAPI\\E-CommerceAPI.csproj|solutionrelative:e-commerceapi\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24254D05-9161-4C87-8BB8-A8C91783806C}|Core\\Core.csproj|d:\\iti\\angular project\\e-commerceapi\\core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24254D05-9161-4C87-8BB8-A8C91783806C}|Core\\Core.csproj|solutionrelative:core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2508F8D4-455E-4819-8B41-36DA4033C242}|E-CommerceAPI\\E-CommerceAPI.csproj|d:\\iti\\angular project\\e-commerceapi\\e-commerceapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2508F8D4-455E-4819-8B41-36DA4033C242}|E-CommerceAPI\\E-CommerceAPI.csproj|solutionrelative:e-commerceapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2508F8D4-455E-4819-8B41-36DA4033C242}|E-CommerceAPI\\E-CommerceAPI.csproj|d:\\iti\\angular project\\e-commerceapi\\e-commerceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2508F8D4-455E-4819-8B41-36DA4033C242}|E-CommerceAPI\\E-CommerceAPI.csproj|solutionrelative:e-commerceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2508F8D4-455E-4819-8B41-36DA4033C242}|E-CommerceAPI\\E-CommerceAPI.csproj|d:\\iti\\angular project\\e-commerceapi\\e-commerceapi\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2508F8D4-455E-4819-8B41-36DA4033C242}|E-CommerceAPI\\E-CommerceAPI.csproj|solutionrelative:e-commerceapi\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2508F8D4-455E-4819-8B41-36DA4033C242}|E-CommerceAPI\\E-CommerceAPI.csproj|d:\\iti\\angular project\\e-commerceapi\\e-commerceapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2508F8D4-455E-4819-8B41-36DA4033C242}|E-CommerceAPI\\E-CommerceAPI.csproj|solutionrelative:e-commerceapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,155 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "E-CommerceAPI\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "E-CommerceAPI\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAIYAAAAAAAAAAAAuwBMAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T23:45:47.921Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "E-CommerceAPI\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "E-CommerceAPI\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T23:47:05.927Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BrandController.cs",
-              "DocumentMoniker": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\Controllers\\BrandController.cs",
-              "RelativeDocumentMoniker": "E-CommerceAPI\\Controllers\\BrandController.cs",
-              "ToolTip": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\Controllers\\BrandController.cs",
-              "RelativeToolTip": "E-CommerceAPI\\Controllers\\BrandController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBgAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T23:47:46.01Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "E-CommerceAPI\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "E-CommerceAPI\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAFYAAAAAAAAAAAAwwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T23:47:45.172Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApiException.cs",
-              "DocumentMoniker": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\Errors\\ApiException.cs",
-              "RelativeDocumentMoniker": "E-CommerceAPI\\Errors\\ApiException.cs",
-              "ToolTip": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\Errors\\ApiException.cs",
-              "RelativeToolTip": "E-CommerceAPI\\Errors\\ApiException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T00:10:47.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ExceptionMeddleware.cs",
-              "DocumentMoniker": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\Middleware\\ExceptionMeddleware.cs",
-              "RelativeDocumentMoniker": "E-CommerceAPI\\Middleware\\ExceptionMeddleware.cs",
-              "ToolTip": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\Middleware\\ExceptionMeddleware.cs",
-              "RelativeToolTip": "E-CommerceAPI\\Middleware\\ExceptionMeddleware.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T23:58:57.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductUrlResolver.cs",
-              "DocumentMoniker": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\Helpers\\ProductUrlResolver.cs",
-              "RelativeDocumentMoniker": "E-CommerceAPI\\Helpers\\ProductUrlResolver.cs",
-              "ToolTip": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\Helpers\\ProductUrlResolver.cs",
-              "RelativeToolTip": "E-CommerceAPI\\Helpers\\ProductUrlResolver.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T23:58:42.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\Program.cs",
-              "RelativeDocumentMoniker": "E-CommerceAPI\\Program.cs",
-              "ToolTip": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\Program.cs",
-              "RelativeToolTip": "E-CommerceAPI\\Program.cs",
-              "ViewState": "AQIAAF4AAAAAAAAAAAAgwBsAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T23:51:21.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApiResponse.cs",
-              "DocumentMoniker": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\Errors\\ApiResponse.cs",
-              "RelativeDocumentMoniker": "E-CommerceAPI\\Errors\\ApiResponse.cs",
-              "ToolTip": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\Errors\\ApiResponse.cs",
-              "RelativeToolTip": "E-CommerceAPI\\Errors\\ApiResponse.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBMAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T23:49:29.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "D:\\ITI\\Angular Project\\E-CommerceAPI\\Core\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Core\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "D:\\ITI\\Angular Project\\E-CommerceAPI\\Core\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "Core\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T23:49:16.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MappingProfiles.cs",
-              "DocumentMoniker": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\Helpers\\MappingProfiles.cs",
-              "RelativeDocumentMoniker": "E-CommerceAPI\\Helpers\\MappingProfiles.cs",
-              "ToolTip": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\Helpers\\MappingProfiles.cs",
-              "RelativeToolTip": "E-CommerceAPI\\Helpers\\MappingProfiles.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T23:48:57.948Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -210,6 +27,31 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "E-CommerceAPI\\appsettings.json",
+              "ToolTip": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\appsettings.json",
+              "RelativeToolTip": "E-CommerceAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T09:22:24.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "E-CommerceAPI\\Controllers\\BrandController.cs",
+              "ToolTip": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "E-CommerceAPI\\Controllers\\BrandController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:32:46.066Z"
             }
           ]
         }

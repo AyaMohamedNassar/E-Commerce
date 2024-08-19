@@ -149,3 +149,4 @@ D:\ITI\Angular Project\E-CommerceAPI\E-CommerceAPI\obj\Debug\net8.0\refint\E-Com
 D:\ITI\Angular Project\E-CommerceAPI\E-CommerceAPI\obj\Debug\net8.0\E-CommerceAPI.pdb
 D:\ITI\Angular Project\E-CommerceAPI\E-CommerceAPI\obj\Debug\net8.0\E-CommerceAPI.genruntimeconfig.cache
 D:\ITI\Angular Project\E-CommerceAPI\E-CommerceAPI\obj\Debug\net8.0\ref\E-CommerceAPI.dll
+D:\ITI\Angular Project\E-CommerceAPI\E-CommerceAPI\obj\Debug\net8.0\E-CommerceAPI.sourcelink.json

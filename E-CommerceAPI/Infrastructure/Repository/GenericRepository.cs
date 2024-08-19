@@ -30,11 +30,11 @@ namespace Infrastructure.Repository
         {
             var query = _storeDb.Set<TEntity>().AsNoTracking();
 
-            var queryCount = await query.CountAsync();
+            var totalItems = await query.CountAsync();
 
-            if (queryCount == 0) return new List<TEntity>();
+            if (totalItems == 0) return new List<TEntity>();
 
-            var totalPages = (int)Math.Ceiling((double)queryCount / pageSize);
+            var totalPages = (int)Math.Ceiling((double)totalItems / pageSize);
 
             var entities = await query.Skip((page - 1) * pageSize).Take(pageSize).ToListAsync();
 

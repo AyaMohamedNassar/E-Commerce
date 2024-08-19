@@ -32,5 +32,8 @@ namespace E_CommerceAPI.Controllers
 
             return Ok(_mapper.Map<IReadOnlyList<Brand>, IReadOnlyList<BrandDTO>>(brands));
         }
+
+
+
     }
 }

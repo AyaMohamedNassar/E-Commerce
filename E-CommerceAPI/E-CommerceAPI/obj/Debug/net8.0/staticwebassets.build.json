@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1dHNYXqlX5EAk2VeuIUWqvBtXNW8YF6/5zq9Pfyys7Y=",
+  "Hash": "2zw5yRJfypntFvK/Im86ZqaX+YpvE03BhcnIPcqt0AI=",
   "Source": "E-CommerceAPI",
   "BasePath": "_content/E-CommerceAPI",
   "Mode": "Default",
@@ -55,6 +55,25 @@
       "OriginalItemSpec": "wwwroot\\Images\\3r3frn02.klp.jpg"
     },
     {
+      "Identity": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\wwwroot\\Images\\4z2rltao.j50.jpg",
+      "SourceId": "E-CommerceAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\wwwroot\\",
+      "BasePath": "_content/E-CommerceAPI",
+      "RelativePath": "Images/4z2rltao.j50.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\4z2rltao.j50.jpg"
+    },
+    {
       "Identity": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\wwwroot\\Images\\cdmemskg.i12.jpg",
       "SourceId": "E-CommerceAPI",
       "SourceType": "Discovered",
@@ -72,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\cdmemskg.i12.jpg"
+    },
+    {
+      "Identity": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\wwwroot\\Images\\gprwdwpu.1fq.jpg",
+      "SourceId": "E-CommerceAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\wwwroot\\",
+      "BasePath": "_content/E-CommerceAPI",
+      "RelativePath": "Images/gprwdwpu.1fq.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\gprwdwpu.1fq.jpg"
     },
     {
       "Identity": "D:\\ITI\\Angular Project\\E-CommerceAPI\\E-CommerceAPI\\wwwroot\\Images\\t2hd4nrw.tli.jpg",
