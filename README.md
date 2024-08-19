@@ -54,7 +54,6 @@ Trendily Shop is a dynamic and user-friendly eCommerce platform designed to cate
 ## Development Practices
 
 - **Version Control:** The project is managed with Git, ensuring that all changes are tracked, and the codebase remains clean and organized.
-- **Code Quality:** Emphasis is placed on writing clean, maintainable, and well-documented code. Best practices such as SOLID principles and DRY (Don't Repeat Yourself) are adhered to throughout the development process.
 - **Testing:** Both the frontend and backend are rigorously tested to ensure that the application is reliable and free of bugs.
 
 ## Conclusion
