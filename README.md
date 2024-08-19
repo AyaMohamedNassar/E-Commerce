@@ -4,6 +4,10 @@
 
 Trendily Shop is a dynamic and user-friendly eCommerce platform designed to cater to both customers and administrators. This project exemplifies modern web development practices, utilizing a robust backend built with .NET Core Web API and MSSQL Server, and a responsive frontend developed with Angular. The system supports two primary user roles: **Customer** and **Admin**, each with distinct capabilities tailored to their needs.
 
+## Demo
+
+Check out the video demo of Trendily Shop: [Video Demo](https://youtu.be/JPixPk1KO2c)
+
 ## Key Features
 
 ### Customer Features
